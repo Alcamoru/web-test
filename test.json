@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Eragon",
+      "author": "Christopher Paolini"
+    },
+    {
+      "title": "Harry Potter",
+      "author": "J.K Rowling"
+    },
+    {
+      "title": "l'Apprenti épouvanteur",
+      "author": "Joseph Delaney"
+    }
+  ]
+}
